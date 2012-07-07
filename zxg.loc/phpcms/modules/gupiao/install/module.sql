@@ -1,0 +1,1 @@
+INSERT INTO `phpcms_module` (`module`, `name`, `url`, `iscore`, `version`, `description`, `setting`, `listorder`, `disabled`, `installdate`, `updatedate`) VALUES ('gupiao', 'gupiao', 'gupiao/', 0, '1.0', '股票', '', 0, 0, '2012-05-02', '2012-05-02');

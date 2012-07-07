@@ -1,0 +1,43 @@
+	<?php
+
+
+$LANG['gupiao']						=	'新闻';
+$LANG['news_manage']				=	'新闻管理';
+$LANG['news_list']					=	'新闻列表';
+$LANG['news_add']					=	'添加新闻';
+$LANG['news_title']					=	'新闻标题：';
+$LANG['title_cannot_empty']				=	'新闻标题不能为空';
+$LANG['news_content_cannot_be_empty']	=	'新闻内容不能为空';
+$LANG['news_successful_added']	=	'新闻添加成功';
+$LANG['news_successful_updated']					=	'新闻修改成功';
+$LANG['news_passed']				=	'新闻批量状态设置完成！';
+$LANG['news_deleted']				=	'新闻批量删除完成！';
+$LANG['created_at']						=	'编写日期';
+$LANG['enddate']						=	'截止日期';
+$LANG['news_content']				=	'新闻内容：';
+$LANG['news_status']				=	'新闻状态：';
+$LANG['edit_news']					=	'编辑新闻';
+$LANG['inputer']						=	'录入者';
+$LANG['check_annonuce']					=	'审核新闻';
+$LANG['preview']						=	'前台预览';
+$LANG['index']							=	'前台';
+$LANG['cancel_all_selected']			=	'取消批准选定的新闻';
+$LANG['pass_all_selected']				=	'通过选定的新闻';
+$LANG['remove_all_selected']			=	'删除选定的新闻';
+$LANG['overdue_gupiao']				=	'过期新闻';
+$LANG['no_pass_gupiao']				=	'未审核新闻';
+$LANG['no_exists']						=	'此新闻不存在或已删除！';
+$LANG['affirm_delete']					=	'您确定要删除吗？';
+$LANG['input_news_title']			=	'请输入新闻标题!';
+$LANG['title_min_3_chars']				=	'新闻标题至少3个汉字以上';
+$LANG['right']							=	'输入正确!';
+$LANG['server_no_data']					=	'服务器没有返回数据，可能服务器忙，请重试';
+$LANG['news_exist']					=	'该新闻已存在';
+$LANG['checking']						=	'正进行合法性校验...';
+$LANG['select_stardate']				=	'请选择开始时间!';
+$LANG['right_all']						=	'正确！';
+$LANG['select_downdate']				=	'请选择下线时间!';
+$LANG['select_style']					=	'请选择风格!';
+$LANG['available_style']				=	'可用风格';
+$LANG['lists']							=	'列表';
+$LANG['sitename']						=	'站点';
