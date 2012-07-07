@@ -1,0 +1,16 @@
+{
+    "id": "ExtBox1-ext-gen3611",
+    "type": "controller",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "news"
+    },
+    "customConfigs": [],
+    "designerId": "72363501-eab4-4876-b2e9-cdb5486bd08e",
+    "$viewOrder": 0,
+    "expanded": true
+}

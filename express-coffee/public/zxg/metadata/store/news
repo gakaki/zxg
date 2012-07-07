@@ -1,0 +1,17 @@
+{
+    "id": "ExtBox1-ext-gen3687",
+    "type": "store",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "storeId": "MyStore",
+        "designer|userClassName": "news"
+    },
+    "customConfigs": [],
+    "designerId": "5a8f3a8b-1e78-41b0-9d10-8b4180ba0b21",
+    "$viewOrder": 0,
+    "expanded": true
+}

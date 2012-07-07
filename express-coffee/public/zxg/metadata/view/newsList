@@ -1,0 +1,49 @@
+{
+    "id": "ExtBox1-ext-gen2296",
+    "type": "list",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "itemTpl": "<div>List Item {string}</div>",
+        "grouped": true,
+        "designer|userClassName": "newsList"
+    },
+    "customConfigs": [],
+    "designerId": "ffff04f0-8721-4a8f-8f56-705af2c61b7e",
+    "$viewOrder": 0,
+    "expanded": false,
+    "cn": [
+        {
+            "id": "ExtBox1-ext-gen2638",
+            "type": "listpaging",
+            "reference": {
+                "name": "plugins",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyListPagingPlugin"
+            },
+            "customConfigs": [],
+            "expanded": true
+        },
+        {
+            "id": "ExtBox1-ext-gen3383",
+            "type": "pullrefresh",
+            "reference": {
+                "name": "plugins",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "designer|userClassName": "MyPullRefreshPlugin"
+            },
+            "customConfigs": [],
+            "expanded": true
+        }
+    ]
+}

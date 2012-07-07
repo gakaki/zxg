@@ -1,0 +1,29 @@
+{
+    "id": "ExtBox1-ext-gen2219",
+    "type": "application",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "models": [
+            "news"
+        ],
+        "stores": [
+            "news"
+        ],
+        "views": [
+            "newsList"
+        ],
+        "name": "zxg",
+        "controllers": [
+            "news"
+        ]
+    },
+    "customConfigs": [],
+    "designerId": "application",
+    "$viewOrder": 0,
+    "iconCls": "icon-application",
+    "expanded": true
+}
